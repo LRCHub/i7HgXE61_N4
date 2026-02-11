@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "イライラしている！",
+  "base_artist": "じん",
+  "createdAt": "2026-02-11T12:19:27.621909Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イライラしている!",
+      "artist": "じん",
+      "has_synced": false,
+      "path": "select/pl_01_イライラしている!_じん.txt"
+    }
+  ]
+}
